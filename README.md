@@ -1,6 +1,6 @@
 # LeagueSync Admin
 
-LeagueSync Admin is the desktop app tournament staff use to run a league day-to-day — manage teams and players, build the schedule, and enter live scores that spectators see update in real time on the LeagueSync website.
+LeagueSync Admin is the desktop app tournament staff use to run a league day-to-day — manage teams and players, build the schedule, and enter live scores that spectators see update in real time on the [LeagueSync website](https://sporting-leagues-web-fhbk.vercel.app).
 
 ## Why LeagueSync
 
@@ -18,9 +18,10 @@ Running a tournament off spreadsheets and word-of-mouth means scores lag, standi
 - **Automatic champions & leaderboard** — the Champions podium and top-scorer leaderboard are computed automatically as matches finish, no manual tallying.
 - **Auto-updates** — the app checks for new versions and updates itself, so you're always on the latest release.
 
-## Download
+## Links
 
-Grab the latest installer from the [Releases page](https://github.com/Krizofe/LeagueSync-releases/releases/latest) — currently **v1.0.3**.
+- **Spectator site** (live scores, schedule, leaderboard, champions): https://sporting-leagues-web-fhbk.vercel.app
+- **Admin app download**: [Releases page](https://github.com/Krizofe/LeagueSync-releases/releases/latest) — currently **v1.0.3**
 
 Run the `.exe`, log in, pick your league, and you're ready to go.
 
