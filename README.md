@@ -16,12 +16,13 @@ Running a tournament off spreadsheets and word-of-mouth means scores lag, standi
 - **Multi-sport support** — basketball, football, and cricket out of the box, each with sport-appropriate scoring.
 - **Multi-league management** — run several tournaments/seasons from one app and switch between them.
 - **Automatic champions & leaderboard** — the Champions podium and top-scorer leaderboard are computed automatically as matches finish, no manual tallying.
+- **Excel export** — download a single .xlsx per league covering teams/standings, players, match results, the leaderboard, and champions — a handy backup or way to share results outside the app.
 - **Auto-updates** — the app checks for new versions and updates itself, so you're always on the latest release.
 
 ## Links
 
 - **Spectator site** (live scores, schedule, leaderboard, champions): https://sporting-leagues-web-fhbk.vercel.app
-- **Admin app download**: [Releases page](https://github.com/Krizofe/LeagueSync-releases/releases/latest) — currently **v1.0.3**
+- **Admin app download**: [Releases page](https://github.com/Krizofe/LeagueSync-releases/releases/latest) — currently **v1.0.4**
 
 Run the `.exe`, log in, pick your league, and you're ready to go.
 
