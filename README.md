@@ -24,7 +24,7 @@ Running a tournament off spreadsheets and word-of-mouth means scores lag, standi
 
 - **Spectator site** (live scores, schedule, leaderboard, champions): https://sporting-leagues-web-fhbk.vercel.app
 - **LED screen display**: https://sporting-leagues-web-fhbk.vercel.app/led
-- **Admin app download**: [Releases page](https://github.com/Krizofe/LeagueSync-releases/releases/latest) — currently **v1.1.2**
+- **Admin app download**: [Releases page](https://github.com/Krizofe/LeagueSync-releases/releases/latest) — currently **v1.1.3**
 
 Run the `.exe`, log in, pick your league, and you're ready to go.
 
